@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rubint0x
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning DateBase
-- 💞️ I’m looking to collaborate on long
+- 💞️ I’m looking to collaborate on LOVE
 - 📫 How to reach me alaskap6@gmail.com
 
 <!---
