@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rubint0x
 - 👀 I’m interested in C/C++
-- 🌱 I’m currently learning DateBase
-- 💞️ I’m looking to a job
 - 📫 How to reach me rubint0x@gmail.com
 
 <!---
